@@ -2,6 +2,6 @@
 *.ipynb_checkpoints
 .vscode
 # ignores all .md files
-.md
+/related_articles.md
 # does not ignore the README.md file
 !README.md
