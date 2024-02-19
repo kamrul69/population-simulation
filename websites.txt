@@ -1,0 +1,2 @@
+Resources:
+https://towardsdatascience.com/building-simulations-in-python-a-complete-walkthrough-3965b2d3ede0
