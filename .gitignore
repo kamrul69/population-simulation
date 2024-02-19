@@ -5,5 +5,8 @@
 # ignores all .md files
 /related_articles.md
 # does not ignore the README.md file
-!README.md.env
+!README.md
+
 .md
+
+.env
