@@ -1,4 +1,5 @@
 /link_of_websites.txt
+/hasan.txt
 *.ipynb_checkpoints
 .vscode
 # ignores all .md files
